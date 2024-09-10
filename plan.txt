@@ -1,0 +1,4 @@
+I need to:
+1. Navigate to Hacker News' "newest" page
+2. Extract the first 100 articles
+3. Validate that they're sorted from newest to oldest 
